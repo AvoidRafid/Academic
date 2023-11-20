@@ -1,1 +1,1 @@
-# Algorithm-AI2-
+# Algorithm-AI2-Exercise
